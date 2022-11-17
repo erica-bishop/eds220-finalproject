@@ -1,3 +1,5 @@
+![iNaturalist](https://user-images.githubusercontent.com/110261671/202549854-0b2ef916-6e30-4ab6-85a0-3e60019b635f.jpg)
+
 # EDS220 Final Project: Accessing iNaturalist Data Using GBIF
 This repository is for our tutuorial for using data from the [Global Biodiversity Information Facilitiy (GBIF)](gbif.org). In this tutorial, we will be using an occurrence dataset about [iNaturalist Research Grade Observations](https://www.gbif.org/dataset/50c9509d-22c7-4a22-a47d-8c48425ef4a7). This ReadMe will include an installation guide to get started using GBIF. 
 
