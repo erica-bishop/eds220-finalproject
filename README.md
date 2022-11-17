@@ -3,9 +3,10 @@ This repository is for our tutuorial for using data from the [Global Biodiversit
 
 ## Notebook Table of Contents
 1. Purpose
-2. Dataset Description
-3. Dataset Input/Output
-4. Metadata Display and Basic Visualization
-5. References
+2. Installation Guide
+3. Dataset Description
+4. Dataset Input/Output
+5. Metadata Display and Basic Visualization
+6. References
 
 
