@@ -4,6 +4,11 @@ This repository is for our tutuorial for using data from the [Global Biodiversit
 ## Installation Guide
 You will need to make an account with GBIF to download data from their database. 
 
+You will also need to to install the package pygif to work with data from this data base and can use the following commands:
+
+```pip install pygbif```
+
+
 ## Notebook Table of Contents
 1. Purpose
 3. Dataset Description
