@@ -10,7 +10,7 @@ This repository includes a Jupyter Notebook with the tutorial for EDS 220 Workin
 ## Installation Guide
 You will need to make an account with GBIF to download data from their database. 
 
-You will also need to to install the package pygif to work with data from this data base and can use the following commands:
+You will also need to to install the package pygif to use the API for this data base. To install the package you can use the following commands:
 
 ```pip install pygbif```
 
